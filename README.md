@@ -64,25 +64,25 @@ I'm truly grateful to all the wonderful humans and companies supporting my open 
 
 ## <span class="no-dark-mode">🦄</span> Sponsor <span class="reward-price">[$1000/month](https://github.com/sponsors/psyrendust)</span>
 
-<a href="#" class="sponsor" rel="nofollow">
+<a href="https://github.com/sponsors/psyrendust" class="sponsor" rel="nofollow">
   Be the first 🙏
 </a>
 
-## Silver sponsor <span class="reward-price">[$100/month](https://www.patreon.com/bePatron?c=95723&rid=1917312)</span>
+## Silver sponsor <span class="reward-price">[$100/month](https://github.com/sponsors/psyrendust)</span>
 
 <div class="silver-sponsor">
-	<a href="#" class="sponsor" rel="nofollow">
+	<a href="https://github.com/sponsors/psyrendust" class="sponsor" rel="nofollow">
 		Be the first 🙏
 	</a>
 </div>
 
 ## Top supporter <span class="reward-price">[$50/month](https://github.com/sponsors/psyrendust)</span>
 
-- Be the first 🙏
+- [Be the first 🙏](https://github.com/sponsors/psyrendust)
 
 ## Supporter <span class="reward-price">[$10/month](https://github.com/sponsors/psyrendust)</span>
 
-- Be the first 🙏
+- [Be the first 🙏](https://github.com/sponsors/psyrendust)
 
 <hr style="opacity:0.3;margin:20px 0 10px 0">
 
